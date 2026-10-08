@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About me
+## About me
 
 I'm a fullstack software engineer who loves getting into trouble (and then solving it). I taught myself to code in 2019, during the pandemic, and I'm now in my final year of a **Bachelor's in Computer Science with an emphasis in Software Engineering** at the **University of Costa Rica (UCR)**.
 
@@ -18,14 +18,14 @@ Outside of class I build and maintain production systems for clients, university
 
 I like trying crazy ideas and learning whatever a problem calls for, and I'm a big Formula 1 fan 🏎️.
 
-## 📈 Highlights
+## Highlights
 
 - **13,000+ packages** (33,000+ lb) shipped for **1,400+ users** on a logistics platform I built end to end
 - Replaced a **19-year-old legacy system** with UCR's new volunteering platform, which now serves **200+ students a month**
 - Took a gym's admin workload from several trainers down to **one person**
 - Founded **Delivo** to cut fuel costs and remove paper tracking from a real family dairy business
 
-## 🚀 Featured projects
+## Featured projects
 
 | Project | What it is | Tech |
 |---|---|---|
@@ -35,7 +35,7 @@ I like trying crazy ideas and learning whatever a problem calls for, and I'm a b
 | **[Proactiva](https://proactivacr.net)** | Gym management system that replaced whiteboards. It handles members, class scheduling, appointments and reports, with role-based access, concurrency control for limited-capacity classes and email notifications. | Next.js · TypeScript · Express · MySQL · Tailwind |
 | **[Biomímesis](https://biomimesiscr.org)** *(CICIMA, UCR)* | A set of three connected web tools for a biology research collective: the main site, [Códice Alado](https://codicealado.biomimesiscr.org) and [Biofonía](https://biofonia.biomimesiscr.org). They use gamified UIs and interactive data visualizations, and an admin panel lets researchers publish content on their own. | React · TypeScript · Prisma · MySQL · Tailwind |
 
-## 🛠️ Tech stack
+## Tech stack
 
 **Languages**
 <br/>
